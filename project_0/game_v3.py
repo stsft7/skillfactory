@@ -1,6 +1,6 @@
 import random
 
-number = random.randint(1, 100)
+number = random.randint(1, 100) #инициируем случайный выбор числа в пределах от 1 до 100;
 low = 1
 high = 100
 attempts = 0
@@ -8,7 +8,7 @@ attempts = 0
 print("Угадай число от 1 до 100. Попытайся угадать его за меньшее количество попыток!")
 
 while True:
-    guess = (low + high) // 2
+    guess = (low + high) // 2 #сокращаем диапазон поиска в два раза, сравнив середину числового диапазона с искомым числом;
     print(f"Мой вариант: {guess}")
     attempts += 1
 
