@@ -34,6 +34,6 @@
 - Сдать проект на проверку;
 - Получить обратную связь от команды курса;
 
-## Ссылка на проект
+## Ссылка на датасет
 https://drive.google.com/drive/folders/1xirP24lnWFhWvauSG_U-5XjFL-SrO6oJ?usp=sharing
 
